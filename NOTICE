@@ -1,0 +1,9 @@
+OOM: Offload-Optimized Full-Parameter MoE Training
+Copyright 2026 The OOM Authors
+
+The associated paper is:
+"OOM: Offload-Optimized Full-Parameter MoE Training via Memory-Execution Co-Design"
+Ruijia Yang, Shiyuan Lin, Chengxi Liao, and Zeyi Wen
+https://arxiv.org/abs/2611.11364
+
+This NOTICE file is informational and does not modify the terms of LICENSE.
